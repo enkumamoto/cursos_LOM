@@ -4,8 +4,6 @@
 # + representa 1 ou n
 # ? representa 0 ou 1
 
-
-
 import re
 
 texto = '''
